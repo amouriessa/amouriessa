@@ -5,7 +5,7 @@
 </div>
 
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
-I'm a Information Technology student 👩‍💻
+I'm an Information Technology student 👩‍💻
 - 📕 Currently learning laravel and flutter.
 - 🐠 I'm interested in front-end developer.
 - 🧁 I like to explore things.
