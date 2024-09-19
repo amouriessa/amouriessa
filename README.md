@@ -7,7 +7,7 @@
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
 I'm an Information Technology student 👩‍💻
 - 📕 Currently learning laravel and flutter.
-- 🐠 I'm interested in front-end developer.
+- 🐠 I'm interested in front-end development.
 - 🧁 I like to explore things.
 - 🍅 Check my college's GitHub 'bagassaras' (it was my 1st acc).
 
