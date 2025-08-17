@@ -7,9 +7,7 @@
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
 I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 - 📕 Currently learning react.js
-- 🐠 I'm interested in web development.
 - 🧁 I like to explore things.
-- 🍅 Check my college's GitHub 'bagassaras' (it was my 1st acc).
 
 ---
 
@@ -17,4 +15,5 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amouriessa&theme=light&background=FFFFFF)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+
 
