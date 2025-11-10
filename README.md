@@ -14,8 +14,7 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 #### 🍜 My Stats ꩜ .ᐟ
 [![GitHub Streak](https://streak-stats.demolab.com?user=amouriessa)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact)
 
 
 
