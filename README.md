@@ -16,6 +16,8 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact)
 
+md <img src="wakatime/stats.svg?v=1" height="300"/>
+
  <!--START_SECTION:waka-->
 
 ```txt
