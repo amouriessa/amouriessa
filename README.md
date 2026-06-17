@@ -16,17 +16,4 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact)
 
-md <img src="wakatime/stats.svg?v=1" height="300"/>
-
- <!--START_SECTION:waka-->
-
-```txt
-PHP              3 hrs 58 mins         ██████████████████████░░░   87.86 %
-Blade Template   16 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
-JavaScript       11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash             2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-```
-
-<!--END_SECTION:waka-->
-
+<img src="wakatime/stats.svg?v=1" height="300"/>
