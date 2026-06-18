@@ -12,8 +12,22 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 ---
 
 #### 🍜 My Stats ꩜ .ᐟ
-[![GitHub Streak](https://streak-stats.demolab.com?user=amouriessa)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amouriessa" />
+</p>
 
-<img src="wakatime/stats.svg?v=20260618" height="300"/>
+<table align="center">
+<tr>
+<td align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact)
+<img src="wakatime/stats.svg?v=20260618" height="320"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=default" height="320"/>
+
+</td>
+</tr>
+</table>
