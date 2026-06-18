@@ -16,15 +16,15 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
   <img src="https://streak-stats.demolab.com?user=amouriessa" />
 </p>
 
-<table align="center" border="0">
+<table align="center">
 <tr>
-<td align="center" border="0">
+<td align="center">
 
 <img src="wakatime/stats.svg?v=20260618" height="320"/>
 
 </td>
 
-<td align="center" border="0">
+<td align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=default" height="320"/>
 
