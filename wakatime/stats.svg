@@ -8,13 +8,13 @@
     fill="#ffffff"
     stroke="#dcd7ce"
     stroke-width="1"
-    rx="10"
-    ry="10"
+    rx="6"
+    ry="6"
   />
   
   <g transform="translate(0, 10) scale(1.1666666666666667)">
       <svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
-        <text x="50%" y="22" text-anchor="middle" font-size="14" fill="#5f574f" font-family="Calibri">
+        <text x="50%" y="22" text-anchor="middle" font-size="14" fill="#5b5b5b" font-family="Calibri">
           <tspan font-weight="bold">0 hrs 0 mins</tspan>
           <tspan font-weight="normal"> Today</tspan>
         </text>
@@ -28,7 +28,7 @@
           fill="none"
         />
         <path id="arcLabel-0" d="M 150 50 A 110 110 0 0 1 214.65637775217203 71.00813061875579" fill="none" />
-        <text font-size="10" fill="#5f574f" font-family="Calibri">
+        <text font-size="10" fill="#5b5b5b" font-family="Calibri">
           <textPath href="#arcLabel-0" startOffset="50%" text-anchor="middle">Poor</textPath>
         </text>
       
@@ -40,7 +40,7 @@
           fill="none"
         />
         <path id="arcLabel-1" d="M 214.65637775217203 71.00813061875579 A 110 110 0 0 1 254.6162167924669 126.00813061875579" fill="none" />
-        <text font-size="10" fill="#5f574f" font-family="Calibri">
+        <text font-size="10" fill="#5b5b5b" font-family="Calibri">
           <textPath href="#arcLabel-1" startOffset="50%" text-anchor="middle">Fair</textPath>
         </text>
       
@@ -52,7 +52,7 @@
           fill="none"
         />
         <path id="arcLabel-2" d="M 254.6162167924669 126.00813061875579 A 110 110 0 0 1 254.6162167924669 193.99186938124421" fill="none" />
-        <text font-size="10" fill="#5f574f" font-family="Calibri">
+        <text font-size="10" fill="#5b5b5b" font-family="Calibri">
           <textPath href="#arcLabel-2" startOffset="50%" text-anchor="middle">Good</textPath>
         </text>
       
@@ -64,7 +64,7 @@
           fill="none"
         />
         <path id="arcLabel-3" d="M 254.6162167924669 193.99186938124421 A 110 110 0 0 1 214.65637775217203 248.99186938124421" fill="none" />
-        <text font-size="10" fill="#5f574f" font-family="Calibri">
+        <text font-size="10" fill="#5b5b5b" font-family="Calibri">
           <textPath href="#arcLabel-3" startOffset="50%" text-anchor="middle">Great</textPath>
         </text>
       
@@ -76,7 +76,7 @@
           fill="none"
         />
         <path id="arcLabel-4" d="M 214.65637775217203 248.99186938124421 A 110 110 0 0 1 150 270" fill="none" />
-        <text font-size="10" fill="#5f574f" font-family="Calibri">
+        <text font-size="10" fill="#5b5b5b" font-family="Calibri">
           <textPath href="#arcLabel-4" startOffset="50%" text-anchor="middle">Excellent</textPath>
         </text>
       
@@ -89,20 +89,20 @@
         
         <g transform="translate(110, 202)">
           
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#5f574f" stroke-width="3"
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#5b5b5b" stroke-width="3"
          stroke-linecap="round" stroke-linejoin="round">
       <line x1="12" y1="5" x2="12" y2="19"></line>
       <polyline points="19 12 12 19 5 12"></polyline>
     </svg>
-          <text x="20" y="12" font-size="13" fill="#5f574f" font-family="Calibri">
+          <text x="20" y="12" font-size="13" fill="#5b5b5b" font-family="Calibri">
               100% decrease
           </text>
         </g>
-        <text x="50%" y="230" text-anchor="middle" font-size="13" fill="#5f574f" font-family="Calibri">
+        <text x="50%" y="230" text-anchor="middle" font-size="13" fill="#5b5b5b" font-family="Calibri">
           <tspan font-weight="bold">0 hrs 0 mins</tspan>
           <tspan font-weight="normal"> Daily Average</tspan>
         </text>
-        <text x="50%" y="250" text-anchor="middle" font-size="13" fill="#5f574f" font-family="Calibri">
+        <text x="50%" y="250" text-anchor="middle" font-size="13" fill="#5b5b5b" font-family="Calibri">
           <tspan font-weight="bold">N/A</tspan>
           <tspan font-weight="normal"> Most Active Day</tspan>
         </text>
