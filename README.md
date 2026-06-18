@@ -16,8 +16,7 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
   <img src="https://streak-stats.demolab.com?user=amouriessa"/>
 </p>
 
-<img src="wakatime/spedometer.svg?v=20260618" height="330" />
-
 <p align="center">
+  <img src="wakatime/stats.svg?v=20260618" height="320" align="middle" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&hide_border=true" height="180" align="middle" />
 </p>
