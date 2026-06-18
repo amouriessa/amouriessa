@@ -19,5 +19,5 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 <p align="center">
   <img src="wakatime/stats.svg?v=20260618" height="260" align="middle" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=default" height="260" align="middle" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=default" height="180" align="middle" />
 </p>
