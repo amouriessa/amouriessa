@@ -14,7 +14,7 @@
   
   <g transform="translate(175, 10) scale(1)">
       <text x="20" y="20" fill="black" font-size="14">
-              ⚠︎ Error: No 7-day summary data available.
+              ⚠︎ Error: No all-time language data available.
             </text>
     </g>
 </svg>
