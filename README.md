@@ -12,10 +12,3 @@ I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
 ---
 
 #### 🍜 My Stats ꩜ .ᐟ
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amouriessa&theme=jolly&card_width=590&background=FFFFFF&ring=C90076&fire=C90076&currStreakNum=000000&sideNums=000000&currStreakLabel=C90076&sideLabels=000000&dates=C90076&border=EAD1DC"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amouriessa&layout=compact&theme=default&title_color=c90076&text_color=000000&border_color=ead1dc" height="180" align="middle" />
-</p>
