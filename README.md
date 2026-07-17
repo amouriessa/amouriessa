@@ -6,9 +6,8 @@
 
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
 I'm a fresh Computer Science graduate 👩‍💻
-> 𓆩♡𓆪 I love turning complex logic into clean, visually engaging, and accessible user experiences.
-> 
-> 𓆩♡𓆪 I love exploring new technologies and dare to challenge myself with new stacks.
+> 𓆩♡𓆪 I love turning complex logic into clean, visually engaging, and accessible user experiences.  
+> 𓆩♡𓆪 I love exploring new technologies and dare to challenge myself with new stacks.  
 ---
 
 #### 🧪 Tech Stack ₊˚⊹ ᰔ
