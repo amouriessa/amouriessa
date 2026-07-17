@@ -12,5 +12,6 @@ I'm a fresh Computer Science graduate 👩‍💻
 
 #### 🧪 Tech Stack ₊˚⊹ ᰔ
 `React.js` `Next.js` `Javascript` `Typescript` `Node.js` `Laravel` `Git`
+---
 
 #### 🍜 My Stats ꩜ .ᐟ
