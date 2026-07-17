@@ -6,10 +6,17 @@
 
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
 I'm a fresh Computer Science graduate 👩‍💻
-- 📕 Currently deep-diving into React.js, Next.js, and TypeScript.
-- 🧁 I love turning complex logic into clean, visually engaging, and accessible user experiences.
-- 🧪 I love exploring new technologies and dare to challenge myself with new stacks.
+<table>
+<tr>
+<td width="8" bgcolor="#ff8fb1"></td>
+<td>
+- Currently deep-diving into React.js, Next.js, and TypeScript.
+- I love turning complex logic into clean, visually engaging, and accessible user experiences.
+- I love exploring new technologies and dare to challenge myself with new stacks.
 
+</td>
+</tr>
+</table>
 ---
 
 #### 🍜 My Stats ꩜ .ᐟ
