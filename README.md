@@ -5,9 +5,10 @@
 </div>
 
 #### 🌺 About Me ˚ 𝜗𝜚˚⋆｡ 
-I'm an Freshgraduate Bachelor of Computer Science 👩‍💻
-- 📕 Currently learning react.js, next.js and typescript.
-- 🧁 I like to explore things.
+I'm a fresh Computer Science graduate 👩‍💻
+- 📕 Currently deep-diving into React.js, Next.js, and TypeScript.
+- 🧁 I love turning complex logic into clean, visually engaging, and accessible user experiences.
+- 🧪 I love exploring new technologies and dare to challenge myself with new stacks.
 
 ---
 
