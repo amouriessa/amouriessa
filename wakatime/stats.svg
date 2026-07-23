@@ -13,7 +13,6 @@
   />
   
   <g transform="translate(0, 10) scale(1.1666666666666667)">
-      <svg width="300" height="260" viewBox="0 0 300 260" xmlns="http://www.w3.org/2000/svg">
         <text x="50%" y="22" text-anchor="middle" font-size="14" fill="#000000" font-family="Calibri">
           <tspan font-weight="bold">0 hrs 0 mins</tspan>
           <tspan font-weight="normal"> Today</tspan>
@@ -106,6 +105,5 @@
           <tspan font-weight="bold">N/A</tspan>
           <tspan font-weight="normal"> Most Active Day</tspan>
         </text>
-      </svg>
-    </g>
+      </g>
 </svg>
