@@ -16,3 +16,4 @@ I'm a fresh Computer Science graduate 👩‍💻
 ---
 
 #### 🍜 My Stats ꩜ .ᐟ
+![WakaTime Stats](https://whimsy-wakatime-stats-reader.vercel.app/api/stats?bg=ffffff&card_bg=ffffff&text=ff79c6&subtext=6272a4&accent=ff79c6&border=44475a)
